@@ -1,0 +1,651 @@
+image109_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image109_box_1.png	Độc lập - Tự do - Hạnh phúc
+image109_box_10.png	Ngày sinh / Date of birth: 21/09/1993
+image109_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image109_box_12.png	Quê quán / Place of origin:
+image109_box_13.png	Hoà Đông, Tây Hoà, Phú Yên
+image109_box_14.png	Nơi thường trú / Place of residence: Thôn Phú Mỹ
+image109_box_15.png	Có giá trị đến:
+image109_box_16.png	Date of expiry 21/09/2023
+image109_box_17.png	Hoà Đồng, Tây Hoà, Phú Yên
+image109_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image109_box_3.png	Independence - Freedom - Happiness
+image109_box_4.png	CĂN CƯỚC CÔNG DÂN
+image109_box_5.png	Citizen Identity Card
+image109_box_6.png	Số / No:
+image109_box_7.png	054093009771
+image109_box_8.png	Họ và tên / Full name:
+image109_box_9.png	TRẦN MINH HOÀNG
+image110_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image110_box_1.png	Độc lập - Tự do - Hạnh phúc
+image110_box_10.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image110_box_11.png	Quê quán / Place of origin:
+image110_box_12.png	Bình Hoà Phước, Long Hồ, Vĩnh Long
+image110_box_13.png	Nơi thường trú / Place of residence: 299/32D Lê
+image110_box_14.png	Có giá trị đến: 06/01/2043
+image110_box_15.png	Date of expiry
+image110_box_16.png	Quang Sung, Phường 06, Quận 6, TP.HCM
+image110_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image110_box_3.png	Independence - Freedom - Happiness
+image110_box_4.png	CĂN CƯỚC CÔNG DÂN
+image110_box_5.png	Citizen Identity Card
+image110_box_6.png	Số / No: 086183010148
+image110_box_7.png	Họ và tên / Full name:
+image110_box_8.png	NGÔ THỊ THU SƯƠNG
+image110_box_9.png	Ngày sinh / Date of birth: 06/01/1983
+image116_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image116_box_1.png	Độc lập - Tự do - Hạnh phúc
+image116_box_10.png	Ngày sinh / Date of birth: 06/01/1986
+image116_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image116_box_12.png	Việt Nam
+image116_box_13.png	Quê quán / Place of origin:
+image116_box_14.png	Xuân Long, Đồng Xuân, Phú Yên
+image116_box_15.png	Nơi thường trú / Place of residence: Thôn 3
+image116_box_16.png	Có giá trị đến: 06/01/2026
+image116_box_17.png	Date of expiry
+image116_box_18.png	Xuân Hải, Thị xã Sông Cầu, Phú Yên
+image116_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image116_box_3.png	Independence - Freedom - Happiness
+image116_box_4.png	CĂN CƯỚC CÔNG DÂN
+image116_box_5.png	Citizen Identity Card
+image116_box_6.png	054086005906
+image116_box_7.png	Số / No:
+image116_box_8.png	Họ và tên / Full name:
+image116_box_9.png	PHAN ANH ĐÀI
+image138_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image138_box_1.png	Độc lập - Tự do - Hạnh phúc
+image138_box_10.png	Ngày sinh / Date of birth:
+image138_box_12.png	22/08/1998
+image138_box_13.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image138_box_14.png	Việt Nam
+image138_box_15.png	Quê quán / Place of origin:
+image138_box_16.png	Phú Lộc, Thừa Thiên Huế
+image138_box_17.png	Nơi thường trú / Place of residence: K93/H6/26 Hải
+image138_box_18.png	Có giá trị đến: 22/08/2023
+image138_box_19.png	Date of expiry
+image138_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image138_box_20.png	Phòng, Thạch Thang, Hải Châu, Đà Nẵng
+image138_box_3.png	Independence - Freedom - Happiness
+image138_box_4.png	CĂN CƯỚC CÔNG DÂN
+image138_box_5.png	Citizen Identity Card
+image138_box_6.png	048098006238
+image138_box_7.png	Số / No:
+image138_box_8.png	Họ và tên / Full name:
+image138_box_9.png	LÊ HỮU PHONG
+image14_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image14_box_1.png	Độc lập - Tự do - Hạnh phúc
+image14_box_10.png	Ngày sinh / Date of birth: 19/11/1976
+image14_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image14_box_12.png	Quê quán / Place of origin:
+image14_box_13.png	Tiền Yên, Hoài Đức, Hà Nội
+image14_box_14.png	Nơi thường trú / Place of residence: 24 Thuốc Bắc
+image14_box_15.png	Date of expiry
+image14_box_16.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image14_box_3.png	SOCIALIST REPUBLIC OF VIET NAM
+image14_box_4.png	Independence - Freedom - Happiness
+image14_box_5.png	CĂN CƯỚC CÔNG DÂN
+image14_box_6.png	Citizen Identity Card
+image14_box_7.png	Số / No: 001076061923
+image14_box_8.png	Họ và tên / Full name:
+image14_box_9.png	NGUYỄN VŨ HÙNG
+image159_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image159_box_1.png	Độc lập - Tự do - Hạnh phúc
+image159_box_10.png	Ngày sinh / Date of birth: 30/10/1981
+image159_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image159_box_12.png	Quê quán / Place of origin:
+image159_box_13.png	Yên Thọ, Ý Yên, Nam Định
+image159_box_14.png	Date of expiry
+image159_box_15.png	Tôn Đức Thắng, Hàng Bột, Đống Đa, Hà Nội
+image159_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image159_box_3.png	Independence - Freedom - Happiness
+image159_box_4.png	CĂN CƯỚC CÔNG DÂN
+image159_box_5.png	Citizen Identity Card
+image159_box_6.png	Số / No:
+image159_box_7.png	066081000023
+image159_box_8.png	Họ và tên / Full name:
+image159_box_9.png	NHỮ ĐỨC HOÀNG
+image15_box_1.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image15_box_10.png	NGUYỄN QUỐC HUẤN
+image15_box_11.png	Ngày sinh / Date of birth: 25/07/1966
+image15_box_12.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image15_box_13.png	Quê quán / Place of origin:
+image15_box_14.png	Thanh Nghị, Nam Từ Liêm, Hà Nam
+image15_box_15.png	Nơi thường trú / Place of residence: 67 Lãn Ông
+image15_box_16.png	Có giá trị đến:
+image15_box_17.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image15_box_18.png	Date of expiry
+image15_box_19.png	25/07/2026
+image15_box_2.png	Độc lập - Tự do - Hạnh phúc
+image15_box_3.png	SOCIALIST REPUBLIC OF VIET NAM
+image15_box_4.png	Independence - Freedom - Happiness
+image15_box_5.png	CĂN CƯỚC CÔNG DÂN
+image15_box_6.png	Citizen Identity Card
+image15_box_7.png	001066000776
+image15_box_8.png	Số / No:
+image15_box_9.png	Họ và tên / Full name:
+image160_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image160_box_10.png	TRẦN PHI
+image160_box_11.png	Ngày sinh / Date of birth: 10/05/1997
+image160_box_12.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image160_box_13.png	Việt Nam
+image160_box_15.png	Quê quán / Place of origin:
+image160_box_16.png	Nghĩa Điền, Tư Nghĩa, Quảng Ngãi
+image160_box_17.png	Nơi thường trú / Place of residence: Thôn Điền Long
+image160_box_18.png	Có giá trị đến: 10/05/2037
+image160_box_19.png	Date of expiry
+image160_box_2.png	Độc lập - Tự do - Hạnh phúc
+image160_box_20.png	Nghĩa Điền, Tư Nghĩa, Quảng Ngãi
+image160_box_3.png	SOCIALIST REPUBLIC OF VIET NAM
+image160_box_4.png	Independence - Freedom - Happiness
+image160_box_5.png	CĂN CƯỚC CÔNG DÂN
+image160_box_6.png	Citizen Identity Card
+image160_box_7.png	Số / No:
+image160_box_8.png	051097012675
+image160_box_9.png	Họ và tên / Full name:
+image163_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image163_box_1.png	Độc lập - Tự do - Hạnh phúc
+image163_box_10.png	Ngày sinh / Date of birth: 09/06/1989
+image163_box_11.png	Việt Nam
+image163_box_12.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image163_box_13.png	Quê quán / Place of origin:
+image163_box_14.png	Phú Vĩnh, Thị xã Tân Châu, An Giang
+image163_box_15.png	Nơi thường trú / Place of residence: Ấp Phú An
+image163_box_16.png	Có giá trị đến: 09/06/2029
+image163_box_17.png	Date of expiry
+image163_box_18.png	Phú Vĩnh, Thị xã Tân Châu, An Giang
+image163_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image163_box_3.png	Independence - Freedom - Happiness
+image163_box_4.png	CĂN CƯỚC CÔNG DÂN
+image163_box_5.png	Citizen Identity Card
+image163_box_6.png	089089025193
+image163_box_7.png	Số / No:
+image163_box_8.png	Họ và tên / Full name:
+image163_box_9.png	NGUYỄN VĂN KHÁNH
+image164_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image164_box_1.png	Độc lập - Tự do - Hạnh phúc
+image164_box_10.png	Ngày sinh / Date of birth: 07/02/1994
+image164_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image164_box_12.png	Việt Nam
+image164_box_13.png	Quê quán / Place of origin:
+image164_box_14.png	Thiệu Hoá, Thanh Hoá
+image164_box_15.png	Nơi thường trú / Place of residence: 23 Phù Long
+image164_box_16.png	Có giá trị đến: 07/02/2034
+image164_box_17.png	Date of expiry
+image164_box_18.png	Trần Tế Xương, TP. Nam Định, Nam Định
+image164_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image164_box_3.png	Independence - Freedom - Happiness
+image164_box_4.png	CĂN CƯỚC CÔNG DÂN
+image164_box_5.png	Citizen Identity Card
+image164_box_6.png	036094020723
+image164_box_7.png	Số / No:
+image164_box_8.png	Họ và tên / Full name:
+image164_box_9.png	NGUYỄN XUÂN HƯNG
+image165_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image165_box_1.png	Độc lập - Tự do - Hạnh phúc
+image165_box_10.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image165_box_11.png	Quê quán / Place of origin:
+image165_box_12.png	Cát Sơn, Phù Cát, Bình Định
+image165_box_13.png	Nơi thường trú / Place of residence: 194 Phan Bội
+image165_box_14.png	Date of expiry
+image165_box_15.png	Thống Nhất, TP. Buôn Ma Thuột, Đắk Lắk
+image165_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image165_box_3.png	Independence - Freedom - Happiness
+image165_box_4.png	CĂN CƯỚC CÔNG DÂN
+image165_box_5.png	Citizen Identity Card
+image165_box_6.png	Số / No: 066303003849
+image165_box_7.png	Họ và tên / Full name:
+image165_box_8.png	ĐỖ TRẦN THANH THẢO
+image165_box_9.png	Ngày sinh / Date of birth: 24/05/2003
+image166_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image166_box_1.png	Độc lập - Tự do - Hạnh phúc
+image166_box_10.png	Ngày sinh / Date of birth: 07/08/1988
+image166_box_11.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image166_box_12.png	Quê quán / Place of origin:
+image166_box_13.png	Phường 4, Thành phố Đà Lạt, Lâm Đồng
+image166_box_14.png	Nơi thường trú / Place of residence: 24 Đường Số 15
+image166_box_15.png	Có giá trị đến: 07/08/2028
+image166_box_16.png	Phường 11, Quận 6, TP Hồ Chí Minh
+image166_box_17.png	Date of expiry
+image166_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image166_box_3.png	Independence - Freedom - Happiness
+image166_box_4.png	CĂN CƯỚC CÔNG DÂN
+image166_box_5.png	Citizen Identity Card
+image166_box_6.png	068188000631
+image166_box_7.png	Số / No:
+image166_box_8.png	Họ và tên / Full name:
+image166_box_9.png	PHAN THỊ MỸ HIÊN
+image169_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image169_box_1.png	Độc lập - Tự do - Hạnh phúc
+image169_box_10.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image169_box_11.png	Quê quán / Place of origin:
+image169_box_12.png	Thới Thuận, Thốt Nốt, Cần Thơ
+image169_box_13.png	Nơi thường trú / Place of residence: 284/27 Cô Bắc
+image169_box_14.png	Có giá trị đến: 10/12/2031
+image169_box_15.png	Date of expiry
+image169_box_16.png	P Cô Giang, Quận 1, TP Hồ Chí Minh
+image169_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image169_box_3.png	Independence - Freedom - Happiness
+image169_box_4.png	CĂN CƯỚC CÔNG DÂN
+image169_box_5.png	Citizen Identity Card
+image169_box_6.png	Số / No: 092191002197
+image169_box_7.png	Họ và tên / Full name:
+image169_box_8.png	TRẦN THỊ HUỲNH NHƯ
+image169_box_9.png	Ngày sinh / Date of birth: 10/12/1991
+image16_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image16_box_1.png	Độc lập - Tự do - Hạnh phúc
+image16_box_10.png	11/01/1960
+image16_box_11.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image16_box_12.png	Quê quán / Place of origin:
+image16_box_13.png	Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội
+image16_box_14.png	Nơi thường trú / Place of residence: Số 64 Thuốc Bắc
+image16_box_15.png	Có giá trị đến:
+image16_box_16.png	Date of expiry
+image16_box_17.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image16_box_18.png	Không thời hạn
+image16_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image16_box_3.png	Independence - Freedom - Happiness
+image16_box_4.png	CĂN CƯỚC CÔNG DÂN
+image16_box_5.png	Citizen Identity Card
+image16_box_6.png	Số / No: 001160000192
+image16_box_7.png	Họ và tên / Full name:
+image16_box_8.png	HOÀNG KIM THU
+image16_box_9.png	Ngày sinh / Date of birth:
+image170_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image170_box_1.png	Độc lập - Tự do - Hạnh phúc
+image170_box_10.png	Ngày sinh / Date of birth: 27/08/2005
+image170_box_11.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image170_box_12.png	Quê quán / Place of origin:
+image170_box_13.png	Trung Lập Thượng, Củ Chi, Hồ Chí Minh
+image170_box_14.png	Nơi thường trú / Place of residence: Lào Táo Thượng
+image170_box_15.png	Có giá trị đến: 27/08/2030
+image170_box_16.png	Trung Lập Thượng, Củ Chi, Hồ Chí Minh
+image170_box_17.png	Date of expiry
+image170_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image170_box_3.png	Independence - Freedom - Happiness
+image170_box_4.png	CĂN CƯỚC CÔNG DÂN
+image170_box_5.png	Citizen Identity Card
+image170_box_6.png	079305023490
+image170_box_7.png	Số / No:
+image170_box_8.png	Họ và tên / Full name:
+image170_box_9.png	NGUYỄN THỊ THẢO NHI
+image171_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image171_box_1.png	Độc lập - Tự do - Hạnh phúc
+image171_box_10.png	Ngày sinh / Date of birth:
+image171_box_11.png	16/10/1981
+image171_box_12.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image171_box_13.png	Giới tính / Sex: Nữ
+image171_box_14.png	Quê quán / Place of origin:
+image171_box_15.png	Khương Đình, Thanh Xuân, Hà Nội
+image171_box_16.png	Có giá trị đến:
+image171_box_17.png	16/10/2041
+image171_box_18.png	Date of expiry
+image171_box_19.png	Khương Đình, Thanh Xuân, Hà Nội
+image171_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image171_box_3.png	Independence - Freedom - Happiness
+image171_box_4.png	CĂN CƯỚC CÔNG DÂN
+image171_box_5.png	Citizen Identity Card
+image171_box_6.png	Số / No:
+image171_box_7.png	001181002784
+image171_box_8.png	Họ và tên / Full name:
+image171_box_9.png	NGUYỄN THỊ HỒNG GIANG
+image174_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image174_box_1.png	Độc lập - Tự do - Hạnh phúc
+image174_box_10.png	Ngày sinh / Date of birth: 10/02/1988
+image174_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image174_box_12.png	Quê quán / Place of origin:
+image174_box_13.png	Thị trấn Gôi, Vụ Bản, Nam Định
+image174_box_14.png	Nơi thường trú / Place of residence: Đông Côi Sơn
+image174_box_15.png	Có giá trị đến: 10/02/2028
+image174_box_16.png	Date of expiry
+image174_box_17.png	Thị trấn Gôi, Vụ Bản, Nam Định
+image174_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image174_box_3.png	Independence - Freedom - Happiness
+image174_box_4.png	CĂN CƯỚC CÔNG DÂN
+image174_box_5.png	Citizen Identity Card
+image174_box_6.png	036088022235
+image174_box_7.png	Số / No:
+image174_box_8.png	Họ và tên / Full name:
+image174_box_9.png	TRẦN ĐÌNH THUẬN
+image28_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image28_box_1.png	Độc lập - Tự do - Hạnh phúc
+image28_box_10.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image28_box_11.png	Quê quán / Place of origin:
+image28_box_12.png	Hùng Tiến, Mỹ Đức, Hà Nội
+image28_box_13.png	Nơi thường trú / Place of residence: 83 Hàng Bồ
+image28_box_14.png	Có giá trị đến: 19/07/2028
+image28_box_15.png	Date of expiry
+image28_box_16.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image28_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image28_box_3.png	Independence - Freedom - Happiness
+image28_box_4.png	CĂN CƯỚC CÔNG DÂN
+image28_box_5.png	Citizen Identity Card
+image28_box_6.png	Số / No: 001068033836
+image28_box_7.png	Họ và tên / Full name:
+image28_box_8.png	NGUYỄN BÌNH
+image28_box_9.png	Ngày sinh / Date of birth: 19/07/1968
+image29_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image29_box_1.png	Độc lập - Tự do - Hạnh phúc
+image29_box_10.png	Việt Nam
+image29_box_11.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image29_box_12.png	Quê quán / Place of origin:
+image29_box_13.png	Quang Trung, Thị xã Bỉm Sơn, Thanh Hoá
+image29_box_14.png	Nơi thường trú / Place of residence: 16 Thuốc Bắc
+image29_box_15.png	Có giá trị đến: 08/10/2038
+image29_box_16.png	Date of expiry
+image29_box_17.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image29_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image29_box_3.png	Independence - Freedom - Happiness
+image29_box_4.png	CĂN CƯỚC CÔNG DÂN
+image29_box_5.png	Citizen Identity Card
+image29_box_6.png	Số / No: 038178002958
+image29_box_7.png	Họ và tên / Full name:
+image29_box_8.png	VŨ THỊ HẠNH
+image29_box_9.png	Ngày sinh / Date of birth: 08/10/1978
+image30_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image30_box_1.png	Độc lập - Tự do - Hạnh phúc
+image30_box_10.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image30_box_11.png	Quê quán / Place of origin:
+image30_box_12.png	Tây Mỗ, Nam Từ Liêm, Hà Nội
+image30_box_13.png	Nơi thường trú / Place of residence: 134 Quán Thánh
+image30_box_14.png	Có giá trị đến: 25/09/2028
+image30_box_15.png	Date of expiry
+image30_box_16.png	Quán Thánh, BA Đình, Hà Nội
+image30_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image30_box_3.png	Independence - Freedom - Happiness
+image30_box_4.png	CĂN CƯỚC CÔNG DÂN
+image30_box_5.png	Citizen Identity Card
+image30_box_6.png	Số / No: 001068010238
+image30_box_7.png	Họ và tên / Full name:
+image30_box_8.png	TRẦN VIỆT
+image30_box_9.png	Ngày sinh / Date of birth: 25/09/1968
+image39_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image39_box_1.png	Độc lập - Tự do - Hạnh phúc
+image39_box_10.png	Ngày sinh / Date of birth: 27/11/1998
+image39_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image39_box_12.png	Quê quán / Place of origin:
+image39_box_13.png	Thới Sơn, Thành phố Mỹ Tho, Tiền Giang
+image39_box_14.png	Nơi thường trú / Place of residence: 503C/5, Áp Phủ
+image39_box_15.png	Có giá trị đến: 27/11/2023
+image39_box_16.png	Date of expiry
+image39_box_17.png	Thành Tây, Quới Sơn, Châu Thành, Bến Tre
+image39_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image39_box_3.png	Independence - Freedom - Happiness
+image39_box_4.png	CĂN CƯỚC CÔNG DÂN
+image39_box_5.png	Citizen Identity Card
+image39_box_6.png	082098009539
+image39_box_7.png	Số / No:
+image39_box_8.png	Họ và tên / Full name:
+image39_box_9.png	TRẦN MINH LUÂN
+image40_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image40_box_1.png	Độc lập - Tự do - Hạnh phúc
+image40_box_10.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image40_box_11.png	Quê quán / Place of origin:
+image40_box_12.png	Xuân Khang, Như Thanh, Thanh Hoá
+image40_box_13.png	Nơi thường trú / Place of residence: Tổ 3
+image40_box_14.png	Có giá trị đến: 07/11/2033
+image40_box_15.png	Date of expiry
+image40_box_16.png	P. Trường Chinh, TP. Kon Tum, Kon Tum
+image40_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image40_box_3.png	Independence - Freedom - Happiness
+image40_box_4.png	CĂN CƯỚC CÔNG DÂN
+image40_box_5.png	Citizen Identity Card
+image40_box_6.png	Số / No: 062093005595
+image40_box_7.png	Họ và tên / Full name:
+image40_box_8.png	NGÂN XUÂN NAM
+image40_box_9.png	Ngày sinh / Date of birth: 07/11/1993
+image4_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image4_box_1.png	Độc lập - Tự do - Hạnh phúc
+image4_box_10.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image4_box_11.png	Quê quán / Place of origin:
+image4_box_12.png	Gia Thuỵ, Long Biên, Hà Nội
+image4_box_13.png	Nơi thường trú / Place of residence: 48 Lãn Ông
+image4_box_14.png	Có giá trị đến: 01/09/2036
+image4_box_15.png	Date of expiry
+image4_box_16.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image4_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image4_box_3.png	Independence - Freedom - Happiness
+image4_box_4.png	CĂN CƯỚC CÔNG DÂN
+image4_box_5.png	Citizen Identity Card
+image4_box_6.png	Số / No: 001076018786
+image4_box_7.png	Họ và tên / Full name:
+image4_box_8.png	NGUYỄN VIỆT DŨNG
+image4_box_9.png	Ngày sinh / Date of birth: 01/09/1976
+image50_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image50_box_1.png	Độc lập - Tự do - Hạnh phúc
+image50_box_10.png	Ngày sinh / Date of birth: 01/02/1982
+image50_box_11.png	Việt Nam
+image50_box_13.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image50_box_14.png	Quê quán / Place of origin:
+image50_box_15.png	Thị xã Trảng Bàng, Tây Ninh
+image50_box_16.png	Nơi thường trú / Place of residence: Tổ 9, Ấp 2
+image50_box_17.png	Có giá trị đến: 01/02/2042
+image50_box_18.png	Date of expiry
+image50_box_19.png	Suối Ngô, Tân Châu, Tây Ninh
+image50_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image50_box_3.png	Independence - Freedom - Happiness
+image50_box_4.png	CĂN CƯỚC CÔNG DÂN
+image50_box_5.png	Citizen Identity Card
+image50_box_6.png	072182012537
+image50_box_7.png	Số / No:
+image50_box_8.png	Họ và tên / Full name:
+image50_box_9.png	TRẦN THỊ DÂN
+image51_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image51_box_1.png	Độc lập - Tự do - Hạnh phúc
+image51_box_10.png	Ngày sinh / Date of birth: 10/03/2000
+image51_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image51_box_12.png	Quê quán / Place of origin:
+image51_box_13.png	Lạng Sơn
+image51_box_14.png	Nơi thường trú / Place of residence: Thôn Đà R giềng
+image51_box_15.png	Có giá trị đến: 10/03/2025
+image51_box_16.png	Date of expiry
+image51_box_17.png	Đà Loan, Đức Trọng, Lâm Đồng
+image51_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image51_box_3.png	Independence - Freedom - Happiness
+image51_box_4.png	CĂN CƯỚC CÔNG DÂN
+image51_box_5.png	Citizen Identity Card
+image51_box_6.png	068200002850
+image51_box_7.png	Số / No:
+image51_box_8.png	Họ và tên / Full name:
+image51_box_9.png	LÂM NHẬT TIÊN
+image52_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image52_box_1.png	Độc lập - Tự do - Hạnh phúc
+image52_box_10.png	Ngày sinh / Date of birth: 14/07/2002
+image52_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality:
+image52_box_12.png	Việt Nam
+image52_box_14.png	Quê quán / Place of origin:
+image52_box_15.png	Võ Miếu, Thanh Sơn, Phú Thọ
+image52_box_16.png	Nơi thường trú / Place of residence: Xóm Liên Thành
+image52_box_17.png	Có giá trị đến: 14/07/2027
+image52_box_18.png	Date of expiry
+image52_box_19.png	Võ Miếu, Thanh Sơn, Phú Thọ
+image52_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image52_box_3.png	Independence - Freedom - Happiness
+image52_box_4.png	CĂN CƯỚC CÔNG DÂN
+image52_box_5.png	Citizen Identity Card
+image52_box_6.png	025202004532
+image52_box_7.png	Số / No:
+image52_box_8.png	Họ và tên / Full name:
+image52_box_9.png	TRIỆU ĐỨC NAM
+image53_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image53_box_1.png	Độc lập - Tự do - Hạnh phúc
+image53_box_10.png	Ngày sinh / Date of birth: 18/02/1999
+image53_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image53_box_12.png	Quê quán / Place of origin:
+image53_box_13.png	Thanh Khê Tây, Thanh Khê, Đà Nẵng
+image53_box_14.png	Nơi thường trú / Place of residence: Tổ 32
+image53_box_15.png	Có giá trị đến: 18/02/2024
+image53_box_16.png	Thanh Khê Tây, Thanh Khê, Đà Nẵng
+image53_box_17.png	Date of expiry
+image53_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image53_box_3.png	Independence - Freedom - Happiness
+image53_box_4.png	CĂN CƯỚC CÔNG DÂN
+image53_box_5.png	Citizen Identity Card
+image53_box_6.png	048099003925
+image53_box_7.png	Số / No:
+image53_box_8.png	Họ và tên / Full name:
+image53_box_9.png	MAI ĐAN ANH
+image5_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image5_box_1.png	Độc lập - Tự do - Hạnh phúc
+image5_box_10.png	Ngày sinh / Date of birth: 12/02/1965
+image5_box_11.png	Việt Nam
+image5_box_12.png	Giới tính / Sex: Nam Quốc tịch / Nationality:
+image5_box_13.png	Quê quán / Place of origin:
+image5_box_14.png	Đồng Sơn, Nam Trực, Nam Định
+image5_box_15.png	Nơi thường trú / Place of residence: 55 Lãn Ông
+image5_box_16.png	Có giá trị đến: 12/02/2025
+image5_box_17.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image5_box_18.png	Date of expiry
+image5_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image5_box_3.png	Independence - Freedom - Happiness
+image5_box_4.png	CĂN CƯỚC CÔNG DÂN
+image5_box_5.png	Citizen Identity Card
+image5_box_6.png	036065001228
+image5_box_7.png	Số / No:
+image5_box_8.png	Họ và tên / Full name:
+image5_box_9.png	CỒ NGỌC ANH
+image60_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image60_box_1.png	Độc lập - Tự do - Hạnh phúc
+image60_box_10.png	Ngày sinh / Date of birth: 08/11/1991
+image60_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image60_box_12.png	Quê quán / Place of origin:
+image60_box_13.png	Nhơn Hội, An Phú, An Giang
+image60_box_14.png	Nơi thường trú / Place of residence: Ấp Bắc Đại
+image60_box_15.png	Có giá trị đến: 08/11/2031
+image60_box_16.png	Nhơn Hội, An Phú, An Giang
+image60_box_17.png	Date of expiry
+image60_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image60_box_3.png	Independence - Freedom - Happiness
+image60_box_4.png	CĂN CƯỚC CÔNG DÂN
+image60_box_5.png	Citizen Identity Card
+image60_box_6.png	089091020007
+image60_box_7.png	Số / No:
+image60_box_8.png	Họ và tên / Full name:
+image60_box_9.png	ĐỖ VĂN HƯỞNG
+image61_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image61_box_1.png	Độc lập - Tự do - Hạnh phúc
+image61_box_10.png	Ngày sinh / Date of birth: 
+image61_box_11.png	07/08/2002
+image61_box_12.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image61_box_13.png	Quê quán / Place of origin:
+image61_box_14.png	Vân Am, Ngọc Lặc, Thanh Hoá
+image61_box_15.png	Nơi thường trú / Place of residence: Làng Tráng
+image61_box_16.png	Có giá trị đến: 07/08/2027
+image61_box_17.png	Vân Am, Ngọc Lặc, Thanh Hoá
+image61_box_18.png	Date of expiry
+image61_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image61_box_3.png	Independence - Freedom - Happiness
+image61_box_4.png	CĂN CƯỚC CÔNG DÂN
+image61_box_5.png	Citizen Identity Card
+image61_box_6.png	038202008668
+image61_box_7.png	Số / No:
+image61_box_8.png	Họ và tên / Full name:
+image61_box_9.png	LÊ VĂN TRUNG
+image62_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image62_box_1.png	Độc lập - Tự do - Hạnh phúc
+image62_box_10.png	Ngày sinh / Date of birth: 05/01/1997
+image62_box_11.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image62_box_12.png	Quê quán / Place of origin:
+image62_box_13.png	Quỳnh Trang, Thị xã Hoàng Mai, Nghệ An
+image62_box_14.png	Nơi thường trú / Place of residence: Thôn 12
+image62_box_15.png	Có giá trị đến: 05/01/2037
+image62_box_16.png	Quỳnh Trang, Thị xã Hoàng Mai, Nghệ An
+image62_box_17.png	Date of expiry
+image62_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image62_box_3.png	Independence - Freedom - Happiness
+image62_box_4.png	CĂN CƯỚC CÔNG DÂN
+image62_box_5.png	Citizen Identity Card
+image62_box_6.png	040097012908
+image62_box_7.png	Số / No:
+image62_box_8.png	Họ và tên / Full name:
+image62_box_9.png	HỒ VĂN CẢNH
+image6_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image6_box_1.png	Độc lập - Tự do - Hạnh phúc
+image6_box_10.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image6_box_11.png	Quê quán / Place of origin:
+image6_box_12.png	Ngọc Thuỵ, Long Biên, Hà Nội
+image6_box_13.png	Nơi thường trú / Place of residence: 12 Hàng Vải
+image6_box_14.png	Date of expiry
+image6_box_15.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image6_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image6_box_3.png	Independence - Freedom - Happiness
+image6_box_4.png	CĂN CƯỚC CÔNG DÂN
+image6_box_5.png	Citizen Identity Card
+image6_box_6.png	Số / No: 001086039984
+image6_box_7.png	Họ và tên / Full name:
+image6_box_8.png	ĐỖ QUANG HUY
+image6_box_9.png	Ngày sinh / Date of birth: 13/04/1986
+image72_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image72_box_1.png	Độc lập - Tự do - Hạnh phúc
+image72_box_10.png	Ngày sinh / Date of birth: 
+image72_box_11.png	05/06/1976
+image72_box_12.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image72_box_13.png	Quê quán / Place of origin:
+image72_box_14.png	Thị trấn Kẻ Sặt, Bình Giang, Hải Dương
+image72_box_15.png	Nơi thường trú / Place of residence: Khu Hạ
+image72_box_16.png	Có giá trị đến: 05/06/2036
+image72_box_17.png	Date of expiry
+image72_box_18.png	Thị trấn Kẻ Sặt, Bình Giang, Hải Dương
+image72_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image72_box_3.png	Independence - Freedom - Happiness
+image72_box_4.png	CĂN CƯỚC CÔNG DÂN
+image72_box_5.png	Citizen Identity Card
+image72_box_6.png	Số / No:
+image72_box_7.png	030076013239
+image72_box_8.png	Họ và tên / Full name:
+image72_box_9.png	VŨ ĐÌNH NAM
+image78_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image78_box_1.png	Độc lập - Tự do - Hạnh phúc
+image78_box_10.png	Ngày sinh / Date of birth: 08/10/1976
+image78_box_11.png	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image78_box_12.png	Quê quán / Place of origin:
+image78_box_13.png	Ninh Bình
+image78_box_14.png	Nơi thường trú / Place of residence: 18/1G, Ấp Mỹ
+image78_box_15.png	Có giá trị đến: 08/10/2036
+image78_box_16.png	Hoà 1, Trung Chánh, Hóc Môn, Hồ Chí Minh
+image78_box_17.png	Date of expiry
+image78_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image78_box_3.png	Independence - Freedom - Happiness
+image78_box_4.png	CĂN CƯỚC CÔNG DÂN
+image78_box_5.png	Citizen Identity Card
+image78_box_6.png	079176006532
+image78_box_7.png	Số / No:
+image78_box_8.png	Họ và tên / Full name:
+image78_box_9.png	ĐINH THỊ KIM YÊN
+image79_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image79_box_1.png	Độc lập - Tự do - Hạnh phúc
+image79_box_10.png	Ngày sinh / Date of birth:
+image79_box_11.png	19/09/1998
+image79_box_12.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image79_box_13.png	Quê quán / Place of origin:
+image79_box_14.png	Tuy Lai, Mỹ Đức, Hà Nội
+image79_box_15.png	Nơi thường trú / Place of residence: Thôn Trê
+image79_box_16.png	Có giá trị đến: 
+image79_box_17.png	19/09/2038
+image79_box_18.png	Date of expiry
+image79_box_19.png	Tuy Lai, Mỹ Đức, Hà Nội
+image79_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image79_box_3.png	Independence - Freedom - Happiness
+image79_box_4.png	CĂN CƯỚC CÔNG DÂN
+image79_box_5.png	Citizen Identity Card
+image79_box_6.png	Số / No:
+image79_box_7.png	001098013161
+image79_box_8.png	Họ và tên / Full name:
+image79_box_9.png	ĐINH KIÊN QUYẾT
+image7_box_0.png	CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+image7_box_1.png	Độc lập - Tự do - Hạnh phúc
+image7_box_12.png	Ngày sinh / Date of birth: 09/06/1979
+image7_box_13.png	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image7_box_14.png	Quê quán / Place of origin:
+image7_box_15.png	Vũ Thư, Thái Bình
+image7_box_16.png	Nơi thường trú / Place of residence: 55 Lãn Ông
+image7_box_17.png	Có giá trị đến: 09/06/2039
+image7_box_18.png	Date of expiry
+image7_box_19.png	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image7_box_2.png	SOCIALIST REPUBLIC OF VIET NAM
+image7_box_3.png	Independence - Freedom - Happiness
+image7_box_4.png	CĂN CƯỚC CÔNG DÂN
+image7_box_5.png	Citizen Identity Card
+image7_box_6.png	001079051378
+image7_box_7.png	Số / No:
+image7_box_8.png	Họ và tên / Full name:
+image7_box_9.png	Tạ QUỐC TUÝ

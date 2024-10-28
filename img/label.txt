@@ -1,0 +1,73 @@
+image1.jpg	Họ và tên / Full name:
+image2.jpg	NGUYỄN VIỆT DŨNG
+image3.jpg	Ngày sinh / Date of birth: 01/09/1976
+image4.jpg	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image5.jpg	Quê quán / Place of origin:
+image6.jpg	Gia Thuỵ, Long Biên, Hà Nội
+image7.jpg	Có giá trị đến 01/09/2036
+image8.jpg	Nơi thường trú / Place of resident 48 Lãn Ông
+image9.jpg	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image10.jpg	Họ và tên / Full name:
+image11.jpg	CỒ NGỌC ANH
+image12.jpg	Ngày sinh / Date of birth: 12/02/1965
+image13.jpg	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image14.jpg	Quê quán / Place of origin:
+image15.jpg	Đồng Sơn, Nam Trực, Nam Định
+image16.jpg	Có giá trị đến 12/02/2025
+image17.jpg	Nơi thường trú / Place of resident 55 Lãn Ông
+image18.jpg	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image19.jpg	Họ và tên / Full name:
+image20.jpg	ĐỖ QUANG HUY
+image21.jpg	Ngày sinh / Date of birth: 13/04/1986
+image22.jpg	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image23.jpg	Quê quán / Place of origin:
+image24.jpg	Ngọc Thuỵ, Long Biên, Hà Nội
+image25.jpg	Có giá trị đến 13/04/2026
+image26.jpg	Nơi thường trú / Place of resident 12 Hàng Vải
+image27.jpg	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image28.jpg	Họ và tên / Full name:
+image29.jpg	TẠ QUỐC QUÝ
+image30.jpg	Ngày sinh / Date of birth: 09/06/1979
+image31.jpg	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image32.jpg	Quê quán / Place of origin:
+image33.jpg	Vũ Thư, Thái Bình
+image34.jpg	Có giá trị đến 09/06/2039
+image35.jpg	Nơi thường trú / Place of resident 55 Lãn Ông
+image36.jpg	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image37.jpg	Họ và tên / Full name:
+image38.jpg	VŨ LỆ HẰNG
+image39.jpg	Ngày sinh / Date of birth: 21/01/1977
+image40.jpg	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image41.jpg	Quê quán / Place of origin:
+image42.jpg	Thúc Kháng, Bình Giang, Hải Dương
+image43.jpg	Có giá trị đến 21/01/2037
+image44.jpg	Nơi thường trú / Place of resident 23 Thuốc Bắc
+image45.jpg	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image46.jpg	Họ và tên / Full name:
+image47.jpg	VŨ THỊ LÝ
+image48.jpg	Ngày sinh / Date of birth: 25/04/1947
+image49.jpg	Giới tính / Sex: Nữ Quốc tịch / Nationality: Việt Nam
+image50.jpg	Quê quán / Place of origin: Yên Sở, Hoàng Mai
+image51.jpg	Hà Nội
+image52.jpg	Nơi thường trú / Place of resident 24 Thuốc Bắc
+image53.jpg	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image54.jpg	Họ và tên / Full name:
+image55.jpg	NGUYỄN VŨ HÙNG
+image56.jpg	Ngày sinh / Date of birth: 19/11/1976
+image57.jpg	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image58.jpg	Quê quán / Place of origin:
+image59.jpg	Tiền Yên, Hoài Đức, Hà Nội
+image60.jpg	Có giá trị đến 19/11/2036
+image61.jpg	Nơi thường trú / Place of resident 24 Thuốc Bắc
+image62.jpg	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image63.jpg	Họ và tên / Full name:
+image64.jpg	NGUYỄN QUỐC HUẤN
+image65.jpg	Ngày sinh / Date of birth: 25/07/1966
+image66.jpg	Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+image67.jpg	Quê quán / Place of origin:
+image68.jpg	Thanh Nghị, Thanh Liêm, Hà Nam
+image69.jpg	Có giá trị đến
+image70.jpg	25/07/2026
+image71.jpg	Nơi thường trú / Place of resident 67Lãn Ông
+image72.jpg	Hàng Bồ, Hoàn Kiếm, Hà Nội
+image73.jpg	Họ và tên / Full name:
